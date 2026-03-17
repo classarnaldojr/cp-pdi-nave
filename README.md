@@ -71,6 +71,6 @@ Em cada frame processado, escreva na imagem o número de colisões detectadas at
 
 ## Rúbrica
 
-2. Nota: 2 - O método consegue identificar a nave e os tiros (desenhe os contornos para validar).
-4. Nota: 3 - O programa consegue identificar colisões e contar a quantidade de tiros que atingiram a nave, mas o valor final está incorreto. Ele também mostra o número de colisões na imagem.
-5. Nota: 5 - O método contabiliza precisamente o número total de tiros que acertaram a nave principal, para qualquer vídeo com as mesmas características, e exibe o número de colisões na imagem.
+1. Nota: 2 - O método consegue identificar a nave e os tiros (desenhe os contornos para validar).
+2. Nota: 3 - O programa consegue identificar colisões e contar a quantidade de tiros que atingiram a nave, mas o valor final está incorreto. Ele também mostra o número de colisões na imagem.
+3. Nota: 5 - O método contabiliza precisamente o número total de tiros que acertaram a nave principal, para qualquer vídeo com as mesmas características, e exibe o número de colisões na imagem.

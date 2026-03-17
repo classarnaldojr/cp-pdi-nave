@@ -3,8 +3,8 @@ import numpy as np
 
 
 def main():
-    cap = cv2.VideoCapture("imgs/nave2.mov") ## fonte de vídeo (0 para webcam padrão) ou pode ser um arquivo de vídeo, por exemplo: 'video.mp4', lembra de ajustar o path
-    # cap = cv2.VideoCapture("imgs/nave1.mov") ## fonte de vídeo (0 para webcam padrão) ou pode ser um arquivo de vídeo, por exemplo: 'video.mp4', lembra de ajustar o path
+    cap = cv2.VideoCapture("imgs/nave1.mov") # video teste 1
+    # cap = cv2.VideoCapture("imgs/nave2.mov") # video teste 2
 
     if not cap.isOpened():
         print("Erro: Não foi possível acessar a webcam")
