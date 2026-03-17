@@ -1,0 +1,8 @@
+# ignora arquivos de ambiente virtual
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+ENV/    
