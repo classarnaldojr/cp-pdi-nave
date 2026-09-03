@@ -13,7 +13,18 @@ Modifique o arquivo `main.py` para processar um frame do vídeo, identificar a n
 - **CP individual.**
 - A prova contém **1 questão**.
 
-## Configuração do ambiente
+## Testar a infraestrutura
+
+- Execute o script de exemplo:
+
+  ```bash
+  python main.py
+  ```
+  Uma janela mostrará a transmissão da câmera. Pressione `q` para sair. Como pode observar, o arquivo `main.py` já carrega um video, mas não estão fazendo nada.
+
+  Se necessário faça a configuração da infra.
+
+  ### Configuração do ambiente
 
 1. **Criar a virtualenv**:
 
@@ -40,14 +51,6 @@ Modifique o arquivo `main.py` para processar um frame do vídeo, identificar a n
    pip install -r requirements.txt
    ```
 
-## Testar a infraestrutura
-
-- Execute o script de exemplo:
-
-  ```bash
-  python main.py
-  ```
-  Uma janela mostrará a transmissão da câmera. Pressione `q` para sair. Como pode observar, o arquivo `main.py` já carrega um video, mas não estão fazendo nada.
 
 ## Importante
 
